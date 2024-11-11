@@ -1,6 +1,2 @@
-float32 surge
-float32 sway
-float32 heave
-float32 pitch
-float32 roll
-float32 yaw
+# surge, sway, heave, pitch, roll, yaw
+float32[6] cmd_vel
